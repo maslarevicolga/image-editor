@@ -1,0 +1,18 @@
+﻿  Image.cpp
+  ImageLayers.cpp
+C:\Users\olgam\source\repos\image-editor\image-editor\src\ImageLayers.cpp(6,12): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\olgam\source\repos\image-editor\image-editor\src\ImageLayers.cpp(12,13): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\olgam\source\repos\image-editor\image-editor\src\ImageLayers.cpp(12,40): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\olgam\source\repos\image-editor\image-editor\src\ImageLayers.cpp(20,12): warning C4018: '>=': signed/unsigned mismatch
+  Menu.cpp
+  Operation.cpp
+C:\Users\olgam\source\repos\image-editor\image-editor\src\Operation.cpp(8,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olgam\source\repos\image-editor\image-editor\src\Operation.cpp(15,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olgam\source\repos\image-editor\image-editor\src\Operation.cpp(89,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olgam\source\repos\image-editor\image-editor\src\Operation.cpp(97,10): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olgam\source\repos\image-editor\image-editor\src\Operation.cpp(138,20): warning C4018: '<': signed/unsigned mismatch
+  Xml.cpp
+C:\Users\olgam\source\repos\image-editor\image-editor\src\Xml.cpp(60,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olgam\source\repos\image-editor\image-editor\src\Xml.cpp(94,14): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  image-editor.vcxproj -> C:\Users\olgam\source\repos\image-editor\Debug\image-editor.exe
